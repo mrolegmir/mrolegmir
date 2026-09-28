@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Oleg 👋
 
-<!--
-**mrolegmir/mrolegmir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Golang Developer** · 6+ years building high-load backend systems, distributed microservices, and internal developer platforms.
 
-Here are some ideas to get you started:
+- 🏗️ Platform Engineering: IDPs, Kubernetes Operators, GitOps
+- ⚡ Event-Driven Architecture: Kafka, transactional outbox, idempotent consumers
+- 📈 High-load & reliability: 99.99% SLA, observability with Prometheus / Grafana / OpenTelemetry
+- 🤖 Side interest: LLM-agent automations with MCP integrations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech stack
+**Languages:** Go, SQL, Python, Bash
+**Data:** PostgreSQL, Redis Cluster, ClickHouse, Kafka, RabbitMQ
+**Infra:** Kubernetes, Docker, Helm, Terraform, ArgoCD, GitLab CI, GitHub Actions
+**APIs:** gRPC, Protocol Buffers, REST, GraphQL
+
+Here I keep side projects and experiments.
+
+📫 [LinkedIn](https://www.linkedin.com/in/oleg-miroshkin) · olegmiroshkindev@gmail.com
